@@ -1,0 +1,2 @@
+Andres|Python Dojo|78|90|new
+Andres|Python Dojo|78|98|reread
