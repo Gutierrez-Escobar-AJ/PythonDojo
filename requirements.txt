@@ -1,0 +1,5 @@
+# Python Dojo has no external dependencies beyond the Python standard library.
+# This file exists for future expansion or pip install convenience.
+
+# Minimum Python version
+python>=3.7
